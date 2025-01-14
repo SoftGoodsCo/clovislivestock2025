@@ -12,6 +12,9 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/advanced-cattle-1/15/25.md
+      - content/pages/blog/regular-cattle-sales.md
+      - content/pages/blog/advanced-cattle-1/22/25.md
+      - content/pages/blog/regular-cattle-sales-1/29.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
