@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Clovis Livestock Auction
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Clovis Livestock Auction
   type: Seo
 type: PageLayout
 ---
