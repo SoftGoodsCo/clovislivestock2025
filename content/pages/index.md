@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/advanced-cattle-1/15/25.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
