@@ -744,7 +744,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Clovis Livestock Auction
   metaDescription: This demo site is built with Netlify Create.
   type: Seo
 type: PageLayout
