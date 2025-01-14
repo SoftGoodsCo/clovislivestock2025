@@ -84,15 +84,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Newsletter",
-            "altText": "Newsletter",
-            "url": "http://clovislivestock.us7.list-manage.com/subscribe?u=ce13c92dae13430c347998dc9&id=284cdceaa8",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "label": "Log in",
             "url": "/",
             "icon": "arrowRight",
