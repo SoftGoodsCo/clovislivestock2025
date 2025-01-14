@@ -53,6 +53,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/what-is-a-design-system.md
+      - content/pages/blog/chs-february-sale-2025.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
