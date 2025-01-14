@@ -46,7 +46,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: EVENTS -NOTICES
       color: text-dark
       styles:
         self:
