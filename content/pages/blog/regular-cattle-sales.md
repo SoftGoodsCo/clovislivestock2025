@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Regular Cattle Sales
-date: '2025-01-15'
+date: '2025-01-22'
 excerpt: ''
 bottomSections:
   - type: DividerSection
