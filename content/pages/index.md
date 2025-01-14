@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: CLA EVENTS CALENDAR
       color: text-dark
       styles:
         self:
